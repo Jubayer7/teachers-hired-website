@@ -1,4 +1,11 @@
 .header{
     text-align: center;
-    background-color: aqua;
+    margin: 30px;
+    background-image: linear-gradient(rgb(238, 198, 125), rgb(240, 174, 52));
+    line-height: 70px;
+    font-weight: 800;
+    color: darkslateblue;
+}
+.text-color{
+    color: rgb(110, 90, 67);
 }

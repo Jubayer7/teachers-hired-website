@@ -1,4 +1,13 @@
 .teacher-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
+    background-image: linear-gradient(rgb(236, 207, 152), rgb(243, 193, 99));
+}
+.information{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+}
+.cart{
+   border-left: black;
+   border-bottom: black;
 }

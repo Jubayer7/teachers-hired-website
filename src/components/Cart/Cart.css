@@ -1,6 +1,12 @@
+
+
 .btn{
-    padding: 5px 25px;
-    border: 1px solid white;
+    text-align: center;
+    padding: 6px 35px;
+    border: 1px solid rgb(238, 185, 38);
     border-radius: 5px;
-    background-color: lightgreen;
+    /* background-color: lightgreen; */
+   background-image: linear-gradient(rgb(42, 125, 173), rgb(115, 106, 233));
+    color: white;
+    
 }
