@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Robert len",
+    "age": "25",
+    "img": "https://myrepublica.nagariknetwork.com/uploads/media/ddddd_20201129155325.jpg",
+    "gender": "male",
+    "subject": "math",
+    "salary": 20000
+  },
+  {
+    "name": "Mushahid khan",
+    "age": "25",
+    "img": "https://image.shutterstock.com/image-photo/happy-bearded-male-teacher-desk-260nw-388588549.jpg",
+    "gender": "male",
+    "subject": "Economics",
+    "salary": 40000
+  },
+  {
+    "name": "Jammy lara",
+    "age": "25",
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-09/27/full/1506528237-5647.jpg",
+    "gender": "female",
+    "subject": "Sanskrit",
+    "salary": 30000
+  },
+  {
+    "name": "Kiron Shion",
+    "age": "22",
+    "img": "https://elearningindustry.com/wp-content/uploads/2019/10/professional-development-tools-for-teachers.jpg",
+    "gender": "male",
+    "subject": "Sociology",
+    "salary": 25000
+  },
+  {
+    "name": "Iean Josep",
+    "age": "30",
+    "img": "https://thumbs.dreamstime.com/b/young-male-teacher-standing-near-blackboard-young-male-teacher-standing-near-blackboard-white-background-114171081.jpg",
+    "gender": "male",
+    "subject": "Psychology",
+    "salary": 20000
+  },
+  {
+    "name": "Rohit Shatti",
+    "age": "27",
+    "img": "https://st.depositphotos.com/1518767/3618/i/600/depositphotos_36184557-stock-photo-teacher-with-tablet-pc-in.jpg",
+    "gender": "male",
+    "subject": "Political Science",
+    "salary": 18000
+  },
+  {
+    "name": "Anderson",
+    "age": "26",
+    "img": "https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2014/05/MaleMathTeacher.jpg",
+    "gender": "male",
+    "subject": "Geography",
+    "salary": 28000
+  },
+  {
+    "name": "Jammyson",
+    "age": "25",
+    "img": "https://news.missouristate.edu/wp-content/uploads/2017/07/Male-Teacher.jpg",
+    "gender": "male",
+    "subject": "History",
+    "salary": 25000
+  },
+  {
+    "name": "Albert ien",
+    "age": "28",
+    "img": "https://image.freepik.com/free-photo/strict-middle-aged-male-teacher-wearing-glasses-standing-front-blackboard_141793-119570.jpg",
+    "gender": "male",
+    "subject": "enlish",
+    "salary": 30000
+  }
+]
