@@ -1,9 +1,12 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee, faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import './Information.css'
 
 const Information = (props) => {
-    // console.log(props)
+    const element = <FontAwesomeIcon icon={faShoppingCart} />
     const { name, age, gender, img, subject, salary } = props.teacher
+
     return (
         <div className="container">
             <div className="image">
@@ -17,7 +20,7 @@ const Information = (props) => {
                 <button
                     onClick={() => props.addToCart(props.teacher)}
                     className="button"
-                >Add to chart</button>
+                >{element} Add to chart</button>
             </div>
 
         </div>
